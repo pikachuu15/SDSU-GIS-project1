@@ -1,6 +1,6 @@
 # San Diego GIS Web Map
 
-This is a web map created using ArcGIS Online and ArcGIS Pro, showcasing [**Hikaru Fukuda. "park access and population density in San Diego County"**].
+This is a web map created using ArcGIS Online and ArcGIS Pro, showcasing **Hikaru Fukuda. "park access and population density in San Diego County"**.
 
 📍 **Web Map URL**: [Click here to view the map](https://arcg.is/yjPLP)
 
