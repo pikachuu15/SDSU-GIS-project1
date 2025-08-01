@@ -10,7 +10,7 @@ This project was completed as part of my coursework in the GIS program at San Di
 It visualizes geospatial relationships in San Diego County using publicly available data.
 
 ### Key Objectives:
-- Visualize [e.g. **park accessibility**, **population density**, or **ZIP code data**]
+- Visualize park accessibility**, **population density**, and **ZIP code data**.
 - Identify spatial patterns and disparities
 - Present data in an interactive web map format
 
