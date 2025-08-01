@@ -1,6 +1,3 @@
-# SDSU-GIS380-project
-ZIP-code-level population density with park boundaries
-
 # San Diego GIS Web Map
 
 This is a web map created using ArcGIS Online and ArcGIS Pro, showcasing [**Hikaru Fukuda. "park access and population density in San Diego County"**].
